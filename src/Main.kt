@@ -79,8 +79,9 @@ fun main(){
             if (reponses1.equals("oui", ignoreCase = true)) {
                 main() // recommencer le quiz
             } else {
-                println("Vous avez echoué.")
+                println("Vous avez echoué .")
             }
         }
     }
 }
+// fin
